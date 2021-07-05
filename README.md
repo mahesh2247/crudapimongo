@@ -1,7 +1,7 @@
 # crudapimongo
 A Simple Flask Web API demonstarting CRUD Operations using Postman with MongoDB as backend.
 
-Clone the repo , pip install flask_pymongo dependency for MongoDB , Create a cluster with database name as Users=>user(collection name)
+Clone the repo , pip install flask_pymongo dependency for MongoDB , Create a cluster with database name as Users=>user(collection name) Users.user
 Example URI String: app.config["MONGO_URI"] = "mongodb://localhost:27017/Users"
 and run it from app.py. 
 
